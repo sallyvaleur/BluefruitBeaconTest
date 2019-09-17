@@ -84,7 +84,7 @@ function onError(reason)  {
 
 
 function test(){
-	var url='https://techwoman.sallyvaleur.dk';	
+	var url='https://placering.000webhostapp.com';	
 	openBrowser(url);
 }
 
